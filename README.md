@@ -1,6 +1,6 @@
 # lntrc
 
-A new Flutter project.
+Flutter Version: 2.10.5
 
 ## Getting Started
 
